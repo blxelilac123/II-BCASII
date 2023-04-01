@@ -1,0 +1,35 @@
+1.
+Which symbol will be used with grep command to match the pattern pat at the beginning of a line?
+^pat
+$pat
+pat$
+pat^
+None of the above
+2.
+Which command is used to sort the lines of data in a file in reverse order
+sort
+sh
+st
+sort -r
+None of the above
+3.
+Which command is used to display the top of the file?
+cat
+head
+more
+grep
+None of the above
+4.
+Which command is used to copy all files having the string chap and any two characters after that to the progs directory?
+cp chap?? progs
+cp chap* progs
+cp chap[12] /progs/*.*
+cp chap?? /progs/*
+None of the above
+5.
+Which command is used to change protection mode of files starting with the string emp and ending with 1,2, or 3?
+chmod u+x emp[1-3]
+chmod 777 emp*
+chmod u+r ??? emp
+chmod 222 emp?
+None of the above
